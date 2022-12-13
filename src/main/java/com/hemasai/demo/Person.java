@@ -1,5 +1,6 @@
 package com.hemasai.demo;
 
+//Spring Bean as it is managed by the Spring
 public class Person {
     private String name;
     private int age;
